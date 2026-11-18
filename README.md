@@ -1,50 +1,42 @@
-# **BarbieScript - RoboCode 2023 - ETEC-Registro**
+# BarbieScript — RoboCode 2023
 
-### **Introdução:**
-Em 2023, durante nosso primeiro ano do ensino médio na ETEC de Registro, eu **[(Victor Theodoro)](https://github.com/VTheodoro)** e meus colegas de classe, **[Mario Takahashi](https://github.com/mariotdias)** e **[Julia Alabi](https://github.com/JuliaAlabi)** , embarcamos em uma emocionante jornada no mundo da programação e da robótica, participando do 11º Torneio de RoboCode. Com dedicação, trabalho em equipe e muita criatividade, conquistamos o primeiro lugar dentro da nossa instituição.
+Educational Java robot created for the 11th RoboCode tournament in 2023 by an Etec Registro student team. The project explores autonomous robot behavior and competitive programming in the Robocode simulator.
 
-<div style="text-align: center;">
-<img src="Capa_BarbieScript.jpg" width="600" height="400">
-</div>
+## Results and collaboration
 
-### **A Competição:**
-O RoboCode é uma competição de programação de robôs virtuais utilizando a linguagem Java e o software RoboCode. Nossos robôs, incluindo o BarbieScript, foram desafiados a competir em uma arena virtual, onde estratégia e programação determinavam o vencedor. A competição foi organizada pelo Centro Paula Souza e a Robótica Paula Souza.
+- **1st place** in the internal Etec Registro stage, according to the team's original project account.
+- **2nd place** in the subsequent regional finals, as described in the original README.
+- Team: Victor Theodoro, Mario Armando Takahashi Martins Dias, and Julia Alabi.
+- Mentors acknowledged by the original team: Ramon Trigo and Luiz Claudio Barreto.
 
-### **Nossa Jornada:**
-Durante meses, mergulhamos em intensas sessões de programação, utilizando a documentação fornecida pelos nossos professores dos cursos de Desenvolvimento de Sistemas da ETEC **[Ramon Trigo](https://github.com/ramtrigodev)** e Luiz Claudio Barreto, que nos deram a oportunidade de participar. Com base no conhecimento limitado em Java, exploramos a documentação e trabalhamos em equipe para criar o BarbieScript, inspirado no filme lançamento do momento, Barbie. Fizemos uma documentação detalhada para entregar ao professor, incluindo uma capa representando nosso robô.
+![BarbieScript project cover](Capa_BarbieScript.jpg)
 
-### **O Pódio:**
-Nas finais, contra outras ETECs e Fatecs da região, levamos nossa determinação e habilidades ao máximo, competindo em um ambiente ainda mais desafiador. Com grande orgulho, conquistamos o segundo lugar, demonstrando não apenas nossa capacidade técnica, mas também nossa resiliência e habilidade de adaptação em situações competitivas.
+## Repository contents
 
-<div style="text-align: center;">
-<img src="Vencedores2023.png" width="350" height="300">
-</div>
+| File/path | Description |
+| --- | --- |
+| `Source Code BarbieScript/BarbieScript.java` | Java robot source code |
+| `Os_FakeNatty.BarbieScript_1.0.jar` | Packaged artifact preserved from the tournament |
+| `Vencedores2023.png` | Event recognition photograph |
+| `LICENSE` | Repository license |
 
-### **Reconhecimento:**
-Nossa jornada no 11º Torneio de RoboCode não foi apenas sobre conquistar troféus e medalhas. Foi sobre aprender, crescer e superar desafios. Recebemos reconhecimento não apenas pela colocação no pódio, mas também pelo trabalho árduo, pela dedicação e pela paixão que dedicamos ao projeto. Os brindes e medalhas que ganhamos são testemunhos tangíveis do nosso sucesso, mas as lições aprendidas e as memórias criadas são os verdadeiros tesouros desta jornada.
+## How to explore
 
-### **Conclusão:**
-Participar do 11º Torneio de RoboCode da ETEC de Registro foi uma experiência transformadora que nos desafiou, nos inspirou e nos uniu como equipe. Este projeto no GitHub é mais do que apenas um repositório de código; é um testemunho da nossa jornada de sucesso, um lembrete do que podemos alcançar quando trabalhamos juntos e nos esforçamos para alcançar nossos objetivos.
+1. Install the [Robocode simulator](https://sourceforge.net/projects/robocode/files/) and an appropriate Java runtime.
+2. Review the source file under `Source Code BarbieScript/` to understand its behavior and strategy.
+3. Use the simulator's robot import/build workflow for the provided `.jar` or source, depending on the local Robocode version.
+4. Run simulated matches and evaluate movement, targeting, and survivability.
 
-### **Agradecimentos:**
-Gostaríamos de expressar nossa gratidão aos organizadores do Torneio de RoboCode da ETEC de Registro, aos nossos professores e mentores que nos apoiaram ao longo do caminho, e, é claro, aos nossos colegas de equipe, Mario Armando Takahashi Martins Dias e Julia Alabi, cuja determinação e trabalho em equipe foram fundamentais para nosso sucesso.
-s. 
+**Compatibility note:** this is an archived 2023 competition project; current simulator and Java versions have not been verified against the bundled artifact.
 
-## **Links:**
+## What this project demonstrates
 
-**[Link para download da plataforma do RoboCode
-](https://sourceforge.net/projects/robocode/files/
-)**
+Java fundamentals, reading an external framework API, algorithmic experimentation, iteration against simulated opponents, and teamwork.
 
-**[Link da Página Oficial da ETEC de Registro Sobre a 5º Competição de RoboCode, Fotos do Evento e Seus Vecedores
-](http://etecregistro.edu.br/bloginteg.php?id=NDg2
-)**
+## Evidence and attribution
 
-**[Link da Página Oficial da Robótica Paula Souza Sobre o 11º Torneio de RoboCode e Seus Vencedores
-](http://www.robotica.cpscetec.com.br/verEventos.php?pag=50
-)**
+Original competition references retained here for context: [Robocode downloads](https://sourceforge.net/projects/robocode/files/) and [2023 award video](https://www.youtube.com/watch?v=e-7UfXoVjW8). Tournament awards are historical claims from the team's existing documentation.
 
-**[Link do Live de Premiação dos Vencedores do Torneio
-](https://www.youtube.com/watch?v=e-7UfXoVjW8
-)**
+## License
 
+See [LICENSE](LICENSE).
